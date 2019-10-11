@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/_Temp/Temp.unity
-  isLoaded: 0
-  isActive: 0
